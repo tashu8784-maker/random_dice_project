@@ -6,7 +6,7 @@ In this project, I created a virtual dice that generates outcomes (1–6) random
 🔹 User input and output handling
 🔹 Logic building and reproducibility of random events
 
-Tech Stack:
+**Tech Stack:**
 🐍 Python
 📦 random library
 💻 Jupyter Notebook / Google Colab
